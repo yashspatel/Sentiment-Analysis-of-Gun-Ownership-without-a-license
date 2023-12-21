@@ -39,12 +39,3 @@ The project revealed the power and importance of sentiment analysis in understan
 - *Sentiment Analysis of Gun Ownership Without a License.pdf:* Comprehensive report detailing the analysis and findings.
 
 ---
-
-## *Contact*
-
-To learn more about this project and others:
-
-- [*Portfolio*](https://aasthakpatel.netlify.app/)
-- [*LinkedIn*](https://www.linkedin.com/in/aasthaketanp/)
-- [*GitHub*](https://github.com/aasthaketanp)
-- [*My Resume*](https://aasthakpatel.netlify.app/images/AasthaPatelResume2024.pdf)
