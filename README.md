@@ -38,4 +38,11 @@ The project revealed the power and importance of sentiment analysis in understan
 - *Sentiment Analysis on Gun Crime.ipynb:* Examines the sentiments surrounding gun crimes in Indiana.
 - *Sentiment Analysis of Gun Ownership Without a License.pdf:* Comprehensive report detailing the analysis and findings.
 
----
+## *Contact*
+
+To learn more about this project and others:
+
+- [*Portfolio*](https://yashspatel.netlify.app/)
+- [*LinkedIn*](https://www.linkedin.com/in/yashsanjaykumarpatel/)
+- [*GitHub*](https://github.com/yashspatel)
+- [*My Resume*](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf) 
