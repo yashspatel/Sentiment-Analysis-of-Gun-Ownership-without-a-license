@@ -42,7 +42,7 @@ The project revealed the power and importance of sentiment analysis in understan
 
 To learn more about this project and others:
 
-- [*Portfolio*](https://yashspatel.netlify.app/)
+- [*Portfolio*](https://www.yashpatel.work/)
 - [*LinkedIn*](https://www.linkedin.com/in/yashsanjaykumarpatel/)
 - [*GitHub*](https://github.com/yashspatel)
 - [*My Resume*](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf) 
